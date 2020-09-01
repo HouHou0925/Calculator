@@ -33,5 +33,5 @@ Screenshot
 
 Collaborators
 --
-- [silence0925](https://github.com/silence0925)
+- [silence0925](https://github.com/jimmy801)
 - [lihsianglin](https://github.com/lihsianglin)
